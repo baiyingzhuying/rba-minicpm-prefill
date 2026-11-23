@@ -1,1 +1,2 @@
-[MiniCPM4.1-8B sparse prefill · agent trace](https://baiyingzhuying.github.io/rba-minicpm-prefill/)
+- [MiniCPM4.1-8B sparse prefill · agent trace](https://baiyingzhuying.github.io/rba-minicpm-prefill/)
+- [NOSA-8B sparse decode · agent trace](https://baiyingzhuying.github.io/rba-minicpm-prefill/nosa-decode/)

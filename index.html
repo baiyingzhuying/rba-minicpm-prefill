@@ -167,4 +167,5 @@ The 12,509-token explicit-position probe with 130 output positions had identical
 </pre></details></div></details></section>
 <section class="section"><h2 class="label">Post-run verification</h2>
 <p class="audit">The round 4 submission, <code>native</code>, scored 1.6965×. An 8,393-token request with <code>output_hidden_states=True</code> exposed a hidden-state and logits mismatch against round 3. The earlier round 4 candidate, <code>outputdown</code>, passed the same API checks. Against stock, its TTFT speedups were 1.6636×, 1.6794× and 1.7032× at 16,384, 32,768 and 65,535 tokens (geometric mean <strong>1.6820×</strong>). All 1,536 forced-token log probabilities and top-128 results matched stock.</p></section>
+<nav aria-label="Other traces" class="audit"><a style="color:inherit;text-underline-offset:3px" href="nosa-decode/">NOSA-8B sparse decode trace</a></nav>
 </main></body></html>
